@@ -59,6 +59,8 @@ Online training providing Google Cloud courses
 | Cloud Advocate | YouTube      |    [:link:](https://www.youtube.com/channel/UCjfE5EmNU1kyf1wwrtYlnGQ) |
 | AwesomeGCP | YouTube      |    [:link:](https://www.youtube.com/channel/UCIGDDqu5DzlaaC4XzXj_4-A) |
 | GCP for Dummies | YouTube      |    [:link:](https://www.youtube.com/channel/UCLqm0JFu9oqh_PccDg3mU0g) |
+| IT k Funde (GCP) | YouTube      |    [:link:](https://www.youtube.com/watch?v=-C_GJQRD_zU&list=PL6XT0grm_TfgdaAjTmLb4QedMCCMQHISm&index=42&ab_channel=GauravSharma) |
+
 
 
 ## Notes
